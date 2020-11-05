@@ -25,3 +25,4 @@ Assumptions
 
 Next Steps
 1. Paginate responses
+2. Adding proper error messages
